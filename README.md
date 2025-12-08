@@ -4,7 +4,7 @@
 
 ![MedAssist Logo](public/logo.png)
 
-**A modern, bilingual (English/Nepali) AI-powered medical triage system designed for accessibility in rural and urban Nepal**
+**A modern, bilingual (English/Nepali) AI-powered medical triage system designed for accessibility in rural and urban Nepal.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.0.7-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
@@ -14,6 +14,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+Check out live at: **med-assist-ten.vercel.app**
+
+</div>
 
 ## 📋 Table of Contents
 
@@ -110,7 +116,7 @@ Before you begin, ensure you have:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/med-assist.git
+git clone https://github.com/SarshijKarn/MedAssist.git
 cd med-assist
 ```
 
@@ -307,7 +313,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **For Emergencies**: Call **100** (Police) or **102** (Ambulance) in Nepal
 
-**For App Issues**: Open an issue on [GitHub Issues](https://github.com/YOUR_USERNAME/med-assist/issues)
+**For App Issues**: Open an issue on [GitHub Issues](https://github.com/SarshijKarn)
 
 ---
 
@@ -315,6 +321,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built with ❤️ for accessible healthcare in Nepal**
 
-[Report Bug](https://github.com/YOUR_USERNAME/med-assist/issues) · [Request Feature](https://github.com/YOUR_USERNAME/med-assist/issues)
+[Report Bug](https://github.com/SarshijKarn) · [Request Feature](https://github.com/SarshijKarn)
 
 </div>
