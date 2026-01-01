@@ -324,3 +324,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [Report Bug](https://github.com/SarshijKarn) · [Request Feature](https://github.com/SarshijKarn)
 
 </div>
+
+---
+<div align="center">
+
+### Created with ❤️ by Sarshij Karn
+
+[![Website](https://img.shields.io/badge/Website-sarshijkarn.com.np-8a2be2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarshijkarn.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarshij-karn-1a7766236/)
+
+</div>
